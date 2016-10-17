@@ -16,6 +16,7 @@ Contents:
    :maxdepth: 2
 
    all-about-me
+   installation
 
 Indices and tables
 ==================
