@@ -8,7 +8,7 @@ Welcome to diattara's documentation!
 
 Introduction
 
-un petit test
+un 
 
 Contents:
 
